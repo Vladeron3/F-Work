@@ -1,0 +1,15 @@
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/bin/Debug/net6.0/Zadacha
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/bin/Debug/net6.0/Zadacha.deps.json
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/bin/Debug/net6.0/Zadacha.runtimeconfig.json
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/bin/Debug/net6.0/Zadacha.dll
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/bin/Debug/net6.0/Zadacha.pdb
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/Zadacha.csproj.AssemblyReference.cache
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/Zadacha.AssemblyInfoInputs.cache
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/Zadacha.AssemblyInfo.cs
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/Zadacha.csproj.CoreCompileInputs.cache
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/Zadacha.dll
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/refint/Zadacha.dll
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/Zadacha.pdb
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/Zadacha.genruntimeconfig.cache
+/home/olga/Рабочий стол/УЧЕБА/FINAL WORK/Zadacha/obj/Debug/net6.0/ref/Zadacha.dll
